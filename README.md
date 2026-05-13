@@ -61,6 +61,9 @@ Compares residential, commercial, industrial, and all-sector average retail elec
 
 Provides a concise comparison of 2010 sales, 2024 sales, growth percentage, 2024 average price, and 2024 customers for major Virginia sectors.
 
+## To Run 
+You will need to obtain an EIA API key for free and place the Key in the EIA Api field
+
 ## Repository Structure
 
 ```text
